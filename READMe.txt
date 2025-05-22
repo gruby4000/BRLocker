@@ -30,6 +30,7 @@ Its purpose is to ensure data integrity by blocking invalid status transitions. 
 ## .NET
 4.7.1
 
+##Signder without password
 
 ## Contact
 For questions or support, contact: [michal.karpinsky@gmail.com]
